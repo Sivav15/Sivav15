@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sivanathan V</h1>
+<h1 align="center">Hi 👋, I'm Sivanathan </h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thaddlaw.com/thaddlaw-images/about/home.gif">
 
