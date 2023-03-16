@@ -11,7 +11,11 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sivanathanv1999@gmail.com**
-- 👨‍💻 All of my projects are available at https://sivaportfolioz.netlify.app
+
+- 👨‍💻 All of my projects are available at <a href="https://sivaportfolioz.netlify.app" target="blank">My Portfolio</a>
+
+-📄 Know about my experiences <a href="https://drive.google.com/file/d/1xQT4VA2J7Llq7CDq7Ubs2ucxy1zJ9Efw/view" target="blank">My Resume</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
