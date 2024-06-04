@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently working at **SFLhub Technologies,** Chennai.
 
 - 💬 Ask me about **MERN**
 
