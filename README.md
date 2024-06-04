@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sivanathanv1999@gmail.com**
 
-- 👨‍💻 All of my projects are available at <a href="https://sivanathan.info" target="_blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://sivanathan.in" target="_blank">My Portfolio</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xQT4VA2J7Llq7CDq7Ubs2ucxy1zJ9Efw/view" target="_blank">My Resume</a>
 
