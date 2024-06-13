@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently working at **SFLhub Technologies,** Chennai.
+- 🌱 I’m currently working at **SFLHUB Technologies Private Limited,** Chennai.
 
 - 💬 Ask me about **MERN**
 
